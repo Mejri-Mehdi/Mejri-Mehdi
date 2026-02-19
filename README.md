@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm an IoT Software Engineer 🌐💻  
+I'm a Software Engineer 🌐💻  
