@@ -2,8 +2,6 @@
 
 Software Engineer specializing in **Information Security**, **Cloud Infrastructure (Azure)**, and **Security Automation**.
 
-Ranked 1st in class at ESPRIT (Cloud & Cybersecurity Engineering).
-
 #### 🛡️ Certifications
 - **CompTIA Security+**
 - **Cloud Security Alliance CCSK**
