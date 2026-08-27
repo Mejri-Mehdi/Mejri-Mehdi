@@ -14,4 +14,3 @@ Software Engineer specializing in **Information Security**, **Cloud Infrastructu
 - **Network Defense:** Cisco ASA, IPsec VPNs, DAI, DHCP Snooping, OSPF
 
 📫 **LinkedIn:** [linkedin.com/in/mehdi-mejri](https://www.linkedin.com/in/mehdi-mejri)  
-💻 **Portfolio / Repos:** See pinned projects below
